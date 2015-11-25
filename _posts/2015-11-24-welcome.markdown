@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-11-24 18:15:05 -0500
+categories: me
+---
+
+I'm Jose Bueno :)
+
+I'm a passionate Full Stack Developer creating robust web applications for the modern Web.
+
+You can see my Resume or Contact me.
