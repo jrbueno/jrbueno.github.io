@@ -13,6 +13,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jrbueno.com" # the base hostname & protocol for your site
 twitter_username: joserbueno
 github_username:  jrbueno
+instagram: jrbuen0
+linkedin: joserbueno
+#dribbble:
+#email:
+#facebook:
+#flickr:
+#github: barryclark/jekyll-now
+#pinterest:
+#rss: # just type anything here for a working RSS icon
+#twitter: jekyllrb
+#stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+#youtube: # channel/<your_long_string> or user/<user-name>
+#googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Build settings
 markdown: kramdown
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-55009841-2
