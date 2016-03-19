@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jrbueno
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jrbueno.com
+  * I am jrbueno (https://keybase.io/jrbueno) on keybase.
+  * I have a public key with fingerprint A9B6 AAAB 3961 5C7F 3165  97EE 4059 94FD 195B 8A63
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101698429a67f7299f53920106bb749b6242ef787721a890e489a6f8b54939f564d0a",
+            "fingerprint": "a9b6aaab39615c7f316597ee405994fd195b8a63",
+            "host": "keybase.io",
+            "key_id": "405994fd195b8a63",
+            "kid": "0101698429a67f7299f53920106bb749b6242ef787721a890e489a6f8b54939f564d0a",
+            "uid": "344d3e7ea71a1de0da460664d7216319",
+            "username": "jrbueno"
+        },
+        "service": {
+            "hostname": "jrbueno.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458407429,
+    "expire_in": 157680000,
+    "prev": "041f855e917cd8a391086f55ffeef55c8a02f04aa10cf99869d1ad9bacddf095",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIgAnicrZJdSBRRFMd31yxdSSoK0dBkLCpabe7OzJ25q1hkVBREkCSGtNyZuVcn
+dWc/Zm3N7LuQrAzLB4uiF0mwwod6kkBNk4owsERkk8C+zHwoMfow6o7UQ9Bj9+Vw
+z/39//ecw+lbmOBwOyuKl3S8aGuOOh/3XIo69kw1JNZxqqnXcr46rpLMBVKlk4jl
+rzR0zsfxgAcQKaIXYShT2YsQlQTkZWmoqrKIVOgVvYTKiix7AVYQT0SFoVRRJREJ
+DIaizmPOw1EjUE7CwbARsJgtZkKMsSogCCRNpgKAEpIJEXkJIZHqAEmqgqHAhBVm
+xFaw4lQcIXmGyXLs4p8r7x/8f647OmcniKIuEJlgGWCgE17HIuQhY5gaCgDZYISE
+A7iaMHp/WI2SgMnVeziWrDE0Ys/VbuRvIE8zq5kyGDYtUzOr2EOFZQV9ts6qDdrg
+AaL6f1v4VSOgsyEyQQ0JRwwzwPkAIzXLsD2BKCkiL7OGPRyJBY0w8Rs2IclQ4dmx
+vyE19mREQBVJIgjImq5gAQFegVSSKCWEBU3BvJfyIsaA1yhCCkQ6wDpSsabrlEcS
+ZzcVYt35JFYmLmeWEaM8gK1omHD1vd1l8xxOt2N+osteLoc7edGfldu9eMHPouwT
+0z+2aM2Dy698LGj63JHrztwSmvzOvXSeHIr1T8Tv5xXsmZ0lla6njXuzS1ZLMP1u
+2quBNVArTf66c1Ppl57JFe7M/g+dsbI34NntC1shfz6kbkxNWEzpGbMuPjqyr3vD
+PPfVjls7ZtpvHj6rNSidj0qK3cVXWxVn12Dh89SoL3v2xmgsOemy/5An/3171sCn
+icmh3PGctTmxlOut60Babdx3bfMRtP30YOHUufQ7o1daJlxtJQ2dIyuPrfJ0LVva
+WDizLeXAi4yxt/ceVh1POJh/0hhedWpX0vB06MHB3ut98BsZP3HRlTW2+cm7Jq2+
+JcMq7bpbdFR5PR1fv+MXWuc5wg==
+=v3aj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jrbueno
+
+==================================================================
