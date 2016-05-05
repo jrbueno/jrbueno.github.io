@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jose Bueno
-email: jose@jrbueno.com
+email: dev@jrbueno.com
 description: A passionate Full Stack Developer creating robust web applications for the modern Web.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jrbueno.com" # the base hostname & protocol for your site
